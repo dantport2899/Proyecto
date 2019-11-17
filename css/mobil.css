@@ -1,0 +1,93 @@
+Skip to content
+Search or jump to…
+
+Pull requests
+Issues
+Marketplace
+Explore
+ 
+@dantport2899 
+Learn Git and GitHub without any code!
+Using the Hello World guide, you’ll start a branch, write comments, and open a pull request.
+
+
+1
+00MarioRochaMoreno/Responsivo
+ Code Issues 0 Pull requests 0 Actions Projects 0 Wiki Security Insights
+Responsivo/css/mobile.css
+@MarioRochaMoreno MarioRochaMoreno Add files via upload
+290d6bd yesterday
+61 lines (48 sloc)  798 Bytes
+  
+#navbar .logo {
+  float: none;
+  text-align: center;
+}
+
+#navbar ul, #navbar ul li {
+  float: none;
+}
+
+#navbar ul li a {
+  padding: 5px;
+  border-bottom: #fff dotted 1px;
+}
+
+/* Showcase */
+#welcome {
+  height: 100%;
+
+}
+
+#welcome .welcome-content {
+  padding-top: 70px;
+  padding-bottom: 30px;
+}
+
+/* Home-Info */
+
+#home-info .info-img {
+  display:none;
+}
+
+#home-info .info-content {
+  float: none;
+  width: 100%;
+}
+
+/* Información Secundaria */
+
+.box {
+  float: none;
+  width: 100%;
+}
+
+/* Acerca de */
+#about-info .info-right,
+#about-info .info-left {
+  float:none;
+  width: 100%;
+}
+#about-info .info-right {
+  margin-top: 30px;
+}
+.l-heading {
+  text-align: center;
+}
+
+/* Contact */
+#contact-info .box {
+  border-bottom: #fff dotted 1px
+}
+© 2019 GitHub, Inc.
+Terms
+Privacy
+Security
+Status
+Help
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About
